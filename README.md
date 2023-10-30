@@ -7,7 +7,18 @@ Modern Approach", second edition. "
 </p>
 
 ## Informations
-All testing was done on Linux system running GCC 11.4.0. 
+The first difficult, in my opinion, when people first approach a problem
+is to find a way to solve it, but the syntax of programming language
+also plays a key role.
+The aim of this repository is to share solutions to help people in the process
+of learning C. Also, to provide a simple idea of some approaches to the problem.
+(the "hint" sections of programming projects at the endo of each chapter already
+provide a good starting point.)
+
+DISCLAIMER: I don't provide the best solution to the problem, in tems of complexity, but 
+a possible one.
+
+All testing was done on Linux (WLS) system running GCC 11.4.0. 
 
 To check the gcc version used, enter the following command:
 ```bash
