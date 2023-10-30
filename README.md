@@ -7,7 +7,7 @@ Modern Approach", second edition. "
 </p>
 
 ## Informations
-The first difficult, in my opinion, when people first approach a problem
+The first difficulty, in my opinion, when people first approach a problem
 is to find a way to solve it, but the syntax of programming language
 also plays a key role.
 The aim of this repository is to share solutions to help people in the process
