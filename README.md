@@ -6,9 +6,9 @@ Modern Approach", second edition. "
 <img src="cover.jpg" width="203" height="250"/>
 </p>
 
-##Informations
+## Informations
 All testing was done on Linux system running GCC 11.4.0. 
 To check your current gcc version used, enter the following command:
-'''bash
+```bash
 gcc --version
-'''
+```
