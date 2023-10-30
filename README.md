@@ -8,7 +8,8 @@ Modern Approach", second edition. "
 
 ## Informations
 All testing was done on Linux system running GCC 11.4.0. 
-To check your current gcc version used, enter the following command:
+
+To check the gcc version used, enter the following command:
 ```bash
 gcc --version
 ```
