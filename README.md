@@ -25,6 +25,11 @@ To check the gcc version used, enter the following command:
 gcc --version
 ```
 
+## Information on the publication period of the solutions.
+To date, I have completed the first six chapters of the book. There is no
+fixed publication date for the solutions. They will be published according to my free time, 
+until the end.
+
 ## License
 
 Code from the book has the copyright notice as stated in `book-notice.txt`.
