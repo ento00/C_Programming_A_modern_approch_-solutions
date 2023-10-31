@@ -1,6 +1,6 @@
 # C_Programming_A_modern_approch_-solutions
 My ***solutions*** to the exercises in K. N. King's "C Programming: A
-Modern Approach", second edition. "
+Modern Approach", second edition.
 
 <p align="center">
 <img src="cover.jpg" width="203" height="250"/>
