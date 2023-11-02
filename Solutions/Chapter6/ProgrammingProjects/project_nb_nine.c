@@ -21,7 +21,7 @@ int main(void)
     for(int i = 0; number_of_payments > 0; i++,  number_of_payments--)
     {
         loan = loan - payment + (loan * rate / 100.0 / 12.0);
-        printf("Balance remaining after %d payment: $%.2f\n",i,  loan);
+        printf("Balance remaining after %d payment: $%.2f\n",i, loan);
 
     } 
     return 0;
