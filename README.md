@@ -20,11 +20,6 @@ a possible one.
 
 All testing was done on Linux (WLS) system running GCC 11.4.0. 
 
-To check the gcc version used, enter the following command:
-```bash
-gcc --version
-```
-
 ## Publication period of the solutions.
 To date, I have completed the first six chapters of the book. There is no
 fixed publication date for the solutions. They will be published according to my free time, 
