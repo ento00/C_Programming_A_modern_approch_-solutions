@@ -3,7 +3,8 @@
 
 #define SIZE 10
 
-int main(void) {
+int main(void)
+{
     int digits_counter[SIZE] = {0};
     int digit;
     long n;
@@ -16,7 +17,8 @@ int main(void) {
         if (n <= 0)
             break;
 
-        while (n > 0) {
+        while (n > 0)
+        {
             digit = n % 10;
             digits_counter[digit]++;
             n /= 10;
@@ -34,7 +36,7 @@ int main(void) {
             digits_counter[i] = 0;
         }
         printf("\n");
-
     }
+
     return 0;
 }
