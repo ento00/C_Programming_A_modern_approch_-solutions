@@ -15,8 +15,6 @@ of learning C. Also, to provide a simple idea of some approaches to the problem.
 (the "hint" sections of programming projects at the end of each chapter already
 provide a good starting point.)
 
-DISCLAIMER: I don't provide the best solution to the problem, in terms of complexity, but 
-a possible one.
 
 All testing was done on Linux (WLS) system running GCC 11.4.0. 
 
