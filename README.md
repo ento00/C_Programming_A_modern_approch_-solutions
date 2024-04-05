@@ -19,8 +19,7 @@ provide a good starting point.)
 All testing was done on Linux (WLS) system running GCC 11.4.0. 
 
 ## Publication period of the solutions.
-To date, I have completed the first six chapters of the book. There is no
-fixed publication date for the solutions. They will be published according to my free time, 
+To date, I have completed the first six chapters of the book. There is no fixed date for the publication of solutions. They will be published according to my free time, 
 until the end.
 
 ## License
